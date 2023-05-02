@@ -1,0 +1,48 @@
+[
+	
+	{
+
+		"id":1,
+		"name":"loli",
+		"price":"100000",
+		"imgUrl":"/imgs/loli.jpg"
+
+	},
+
+	{
+
+		"id":2,
+		"name":"yandere",
+		"price":"10000",
+		"imgUrl":"/imgs/yandere.jpg"
+
+	},
+
+		{
+
+		"id":3,
+		"name":"tsundere",
+		"price":"50000",
+		"imgUrl":"/imgs/tsundere.jpg"
+
+	},
+
+	{
+
+		"id":4,
+		"name":"furry",
+		"price":"1000000",
+		"imgUrl":"/imgs/furry.jpg"
+
+	},
+
+	{
+
+		"id":5,
+		"name":"sucubo",
+		"price":"1000000",
+		"imgUrl":"/imgs/sucubo.jpg"
+
+	}
+
+]
